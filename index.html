@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Certificate Verification</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+  <div class="logo">
+    <img src="logo.png" alt="Logo">
+  </div>
+
+  <h1>Verify a Certificate</h1>
+  <p>Enter a unique certificate ID</p>
+
+  <div class="box">
+    <input type="text" id="certInput" placeholder="Enter Certificate ID">
+    <button onclick="verifyCert()">Verify Authenticity</button>
+  </div>
+
+  <div id="result"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+<script>
+window.onload = function () {
+  const path = window.location.pathname;
+  const parts = path.split('/');
+  let certId = parts.pop();
+
+  if (!certId) {
+    certId = parts.pop();
+  }
+
+  if (certId && certId !== "index.html") {
+    document.getElementById("certInput").value = certId;
+    verifyCert();
+  }
+};
+</script>
+
+</body>
+</html>
