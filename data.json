@@ -23,6 +23,18 @@
     "issued_on": "2026-04-19",
     "file": "certificates/AcenAAr-GBpsrd.pdf"
   },
+   {
+    "certificate_id": "AcenAAr-CKtzps",
+    "name": "Gadi Guru Sreecharan",
+    "reg_no": "22191A0213",
+    "mode": "Offline",
+    "course": "Embedded System",
+    "institution": "JNTUA College of Engineering Pulivendula",
+    "duration": "2025-12-29 to 2026-04-19",
+    "term": "Long Term Internship",
+    "issued_on": "2026-04-19",
+    "file": "certificates/AcenAAr-CKtzps.pdf"
+  },
   {
     "certificate_id": "AcenAAr-uZ4D2h",
     "name": "Gujjala Pranay kumar",
