@@ -11,9 +11,9 @@
     "issued_on": "2026-04-19",
     "file": "certificates/AcenAAr-uZ3A7i.pdf"
   },
-  {
-    "certificate_id": "AcenAAr-78d4aK",
-    "name": "Lokku Nagaraju",
+   {
+    "certificate_id": "AcenAAr-GBpsrd",
+     "name": "Lokku Nagaraju",
     "reg_no": "25695A3213",
     "mode": "Offline",
     "course": "Data Science",
@@ -21,18 +21,6 @@
     "duration": "2026-05-18 to 2026-07-14",
     "term": "Short Term Internship",
     "issued_on": "2026-07-14",
-    "file": "certificates/AcenAAr-78d4aK.pdf"
-  },
-   {
-    "certificate_id": "AcenAAr-GBpsrd",
-    "name": "Srinivas Phanindra",
-    "reg_no": "22191A0240",
-    "mode": "Offline",
-    "course": "Embedded System",
-    "institution": "JNTUA College of Engineering Pulivendula",
-    "duration": "2025-12-29 to 2026-04-19",
-    "term": "Long Term Internship",
-    "issued_on": "2026-04-19",
     "file": "certificates/AcenAAr-GBpsrd.pdf"
   },
    {
