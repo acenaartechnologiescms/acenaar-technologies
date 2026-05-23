@@ -11,6 +11,18 @@
     "issued_on": "2026-04-19",
     "file": "certificates/AcenAAr-uZ3A7i.pdf"
   },
+  {
+    "certificate_id": "AcenAAr-78d4aK",
+    "name": "Lokku Nagaraju",
+    "reg_no": "25695A3213",
+    "mode": "Offline",
+    "course": "Data Science",
+    "institution": "Madanapalle Institute of Technology and Sciences",
+    "duration": "2026-05-18 to 2026-07-14",
+    "term": "Short Term Internship",
+    "issued_on": "2026-07-14",
+    "file": "certificates/AcenAAr-78d4aK.pdf"
+  },
    {
     "certificate_id": "AcenAAr-GBpsrd",
     "name": "Srinivas Phanindra",
