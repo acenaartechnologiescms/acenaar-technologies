@@ -23,6 +23,18 @@
     "issued_on": "2026-07-14",
     "file": "certificates/AcenAAr-GBpsrd.pdf"
   },
+    {
+    "certificate_id": "AcenAAr-AGiqzl",
+     "name": "Ullaji Meghanath",
+    "reg_no": "24691A32E9",
+    "mode": "Offline",
+    "course": "Data Science",
+    "institution": "Madanapalle Institute of Technology and Sciences",
+    "duration": "2026-05-18 to 2026-07-14",
+    "term": "Short Term Internship",
+    "issued_on": "2026-07-14",
+    "file": "certificates/AcenAAr-AGiqzl.pdf"
+  },
    {
     "certificate_id": "AcenAAr-CKtzps",
     "name": "Gadi Guru Sreecharan",
